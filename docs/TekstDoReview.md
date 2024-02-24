@@ -13,6 +13,8 @@ For those of you who may not be familiar with the term SME: an **SME is an is a 
 
 Let’s go! 😊
 
+![alt text](imageclassroom-1297779_1280.jpg)
+
 ## A like... Appreciate
 Appreciate the SME you turn to to get information. All in all, they devote some valuable time from their busy workday to help you solve the issues you're dealing with. You can just **say thank you**, send an accolade or even give them a small gift to show that you care. A good idea could be to let know also their managers how supportive they are.
 
