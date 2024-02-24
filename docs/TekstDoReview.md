@@ -1,3 +1,8 @@
+---
+title: zajecia 24 lutego strona
+layout: default
+---
+
 # An ABC guide on how to deal with an unresponsive SME
 
 **Nobody knows everything.** That is why every technical writer has to communicate with different stakeholders to get the necessary information needed to perform their work correctly. Very often they reach out to the so-called SME-s to gain clarity about a certain topic. 
